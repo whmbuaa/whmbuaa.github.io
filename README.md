@@ -1,4 +1,4 @@
-# whmbuaa.github.io
+# read materials
 
 * 基础知识
   * Javascript
